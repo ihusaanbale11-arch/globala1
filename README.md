@@ -1,0 +1,2 @@
+# globala1
+global

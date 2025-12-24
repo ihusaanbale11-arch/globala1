@@ -1,0 +1,27 @@
+{
+    "name": "glow-tours-app",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "npx vite",
+        "build": "tsc && npx vite build",
+        "preview": "npx vite preview"
+    },
+    "dependencies": {
+        "alasql": "^4.4.0",
+        "lucide-react": "^0.344.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-router-dom": "^6.22.3",
+        "recharts": "^2.12.2"
+    },
+    "devDependencies": {
+        "@types/node": "^25.0.2",
+        "@types/react": "^18.2.64",
+        "@types/react-dom": "^18.2.21",
+        "@vitejs/plugin-react": "^4.2.1",
+        "typescript": "^5.4.2",
+        "vite": "^5.1.5"
+    }
+}
